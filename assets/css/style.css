@@ -248,6 +248,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #d92cf9;}
 .about-content {padding-top: 100px;}
 /*.single-about-txt*/
 .single-about-txt h3 {
+     font-family: 'Poppins', sans-serif;
     font-size:18px;
     color: #3c4258;
     text-transform: initial;
